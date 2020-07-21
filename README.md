@@ -7,15 +7,12 @@
 ![Banner Image][banner]
 
 ### 🔭 What I'm currently working on:
-
-* #### [Todo List]
-* #### [Portfolio]
+- #### [Todo List]
+- #### [Portfolio]
 
 ### 📫 How to reach me:
-
-* #### [Linkedin]
-* #### By Email: janahan.ravichandran@gmail.com
+- #### [Linkedin]
+- #### By Email: janahan.ravichandran@gmail.com
 
 ### ⚡ Fun fact:
-
-* #### Play a bit too many hours of video games 😂
+- #### Play a bit too many hours of video games 😂
